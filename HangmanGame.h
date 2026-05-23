@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 #include <cstdlib>
-#include <fstream>   // NEW
+#include <fstream>   
 using namespace std;
 
 class HangmanGame : public Game
